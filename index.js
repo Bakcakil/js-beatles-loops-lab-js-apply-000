@@ -1,3 +1,4 @@
+/*
 function theBeatlesPlay(musicians, instruments){
   var array = []
   for(let i = 0; i < musicians.length; i++){
@@ -21,4 +22,10 @@ function theBeatlesPlay(musicians, instruments){
     number++
   } while(number<15)
   return array
+}
+*/
+
+function theBeatlesPlay(musicians, instruments) {
+  var a = [];
+  for ()
 }
